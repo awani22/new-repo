@@ -5,7 +5,7 @@ pipeline {
         stage('Print Message') {
             steps {
                 echo '🚀 Jenkins Pipeline Started!'
-                echo "Hello Iqra 👋"
+                echo "Hello Awani 👋"
             }
         }
 
